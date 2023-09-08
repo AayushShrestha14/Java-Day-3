@@ -87,8 +87,8 @@ public class Main {
         System.out.println(str1);
         System.out.println(str1 instanceof String);
 
-        String str1 = String.valueOf(num1);
-        System.out.println(str1);
-        System.out.println(str1 instanceof String);
+        String str2 = String.valueOf(num1);
+        System.out.println(str2);
+        System.out.println(str2 instanceof String);
     }
 }
