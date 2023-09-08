@@ -83,9 +83,9 @@ public class Main {
 
         //Parsing Numbers to Strings Integer.toString
         int num1 = 456;
-        /*String str1 = Integer.toString(num1);
+        String str1 = Integer.toString(num1);
         System.out.println(str1);
-        System.out.println(str1 instanceof String);*/
+        System.out.println(str1 instanceof String);
 
         String str1 = String.valueOf(num1);
         System.out.println(str1);
